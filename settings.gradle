@@ -1,0 +1,3 @@
+rootProject.name = "fast-layout-manager"
+include ':layout-manager'
+include ':sample'
