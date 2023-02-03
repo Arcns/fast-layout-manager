@@ -4,6 +4,8 @@
 
 > 自定义LayoutManager，实现从右向左快速层叠滑动的LayoutManager效果，提供更多灵活的配置项。
 
+![集成效果](./image/layout_manager.gif)
+
 #### 1.集成方式：
 
 ```
