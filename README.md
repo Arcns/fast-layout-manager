@@ -1,6 +1,6 @@
 # fast-flow-layout
 
-[![](https://jitpack.io/v/com.gitee.arcns/fast-layout-manager.svg)](https://jitpack.io/#com.gitee.arcns/fast-layout-manager)
+[![](https://jitpack.io/v/Arcns/fast-layout-manager.svg)](https://jitpack.io/#Arcns/fast-layout-manager)
 
 > 自定义LayoutManager，实现从右向左快速层叠滑动的LayoutManager效果，提供更多灵活的配置项。
 
@@ -18,7 +18,7 @@ allprojects {
 ```
 
 ```
- implementation 'com.gitee.arcns:fast-layout-manager:latest.release'
+ implementation 'com.github.Arcns:fast-layout-manager:latest.release'
 ```
 
 #### 2.使用方式
